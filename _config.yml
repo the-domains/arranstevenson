@@ -1,6 +1,6 @@
 name: ArranStevenson
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.6577418823726475
 title: Arran Stevenson
 cta:
@@ -22,7 +22,7 @@ color:
     - '#21aee3'
     - '#5a6b78'
     - '#aab3b9'
-  brandStrength: 0.0625
+  brandStrength: 0.5
   lightness: 0.4375
   saturation: 0
   rhythmicContrast: 0.6665796365123242
